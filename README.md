@@ -1,8 +1,8 @@
-# Meridian
+# Atelier
 
-A workspace in progress.
+*Optical metrology & 3D laser scanning.*
 
-Selected, shareable work lands here over time — nothing more is implied by the quiet.
+A workspace in progress. Selected, shareable work lands here over time.
 
 ---
 
